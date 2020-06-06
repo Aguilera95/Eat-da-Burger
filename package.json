@@ -1,0 +1,27 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aguilera95/Eat-da-Burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aguilera95/Eat-da-Burger/issues"
+  },
+  "homepage": "https://github.com/Aguilera95/Eat-da-Burger#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
